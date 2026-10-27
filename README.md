@@ -52,6 +52,6 @@ A Gujarati-first school attendance system with a dashboard, charts and automatic
 
 ## Let’s connect
 
-I’m open to internships and entry-level roles. The quickest way to reach me is by Email - [email](mailto:neevpatel2703@gmail.com) or on LinkedIn - [LinkedIn](https://www.linkedin.com/in/neev-patel27008).
+I’m open to internships and entry-level roles. The quickest way to reach me is by Email - [neevpatel2703@gmail.com](mailto:neevpatel2703@gmail.com) or on LinkedIn - [neev-patel27008](https://www.linkedin.com/in/neev-patel27008).
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b8a68,100:e8955a&height=90&section=footer" alt="" width="100%" />
