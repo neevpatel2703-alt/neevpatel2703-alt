@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8955a,100:3b8a68&height=190&section=header&text=Neev%20Patel&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Python%20%7C%20React%20%7C%20FastAPI&descAlignY=60&descSize=18" alt="Neev Patel banner" />
 
 [![Email](https://img.shields.io/badge/Email-neevpatel2703@gmail.com-3b8a68?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neevpatel2703@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Neev-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neev-patel27008)
 [![Live project](https://img.shields.io/badge/Live%20project-Attendance%20Alert-e8955a?style=for-the-badge&logo=vercel&logoColor=white)](https://hajri-alert.vercel.app/school)
 
 </div>
